@@ -1,13 +1,12 @@
 # Mike Mackintosh
 ==================
 
-    m@zyp.io            |   Cell: 917.680.7495    |  Twitter: @mikemackintosh 
-    Belle Mead, NJ      | Web: mikemackintosh.com |   GitHub: mikemackintosh
+    mike@titanosx.com  |   Cell: 973.464.9026    |  Twitter: @mikemackintosh 
+    Belle Mead, NJ     | Web: mikemackintosh.com |   GitHub: mikemackintosh
 
 ## Experience
 
-**Shutterstock** - New York, New York - World Leading Stock Content Provider
-
+**Shutterstock** - New York, New York - World Leading Stock Content Provider    
 09/2013 - present,  **Running the Security Team**
 
  * Responsible for the creation and growth of the security team as a whole by managing, facilitating and prioritizing all aspects of security including application, systems, networking, information and corporate as well as physical office security
@@ -32,10 +31,8 @@
  * Work with landlords to ensure data center compliance
  * _I am the security team_
  
-**Verizon Wireless** - Branchburg, New Jersey - Telecommunications
-
-05/2012 - 09/2013,  **Principle Engineer**, Security Engineering
-
+**Verizon Wireless** - Branchburg, New Jersey - Telecommunications    
+05/2012 - 09/2013,  **Principle Engineer**, Security Engineering    
 05/2011 - 05/2012,  **Member of Technical Staff**, Security Engineering
 
  * Manage Network Management Systems and define KPI's
@@ -71,5 +68,5 @@ TitanOSX was inspired by the Etsy MIDAS project, but after an almost complete re
 **Masterbaker** - `https://github.com/mikemackintosh/masterbaker`  
 Masterbaker was ported from Soloist, one of the simplest ways to manage workstations using Chef. The large improvement of Masterbaker allows organizations to manage both company-wide and user-level run lists independently to give better control over configurations.
 
-**ruby-ipaddress** `https://github.com/bluemonk/ipaddress`
+**ruby-ipaddress** `https://github.com/bluemonk/ipaddress`    
 I've submitted several pull-requests which have been pulled into master which add support for unsigned 32-bit IP address parsing and `IPv4#to_h` methods. After showing interest in this project, I became a co-maintainer of it to help it grow.
