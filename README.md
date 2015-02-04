@@ -4,6 +4,15 @@
     mike@titanosx.com  |   Cell: 973.464.9026    |  Twitter: @mikemackintosh 
     Belle Mead, NJ     | Web: mikemackintosh.com |   GitHub: mikemackintosh
 
+## Skills
+
+  * Incident Response and System Hardening on Mac OS X, CentOS and Ubuntu/Debian
+  * Experience coding and developing in Ruby, Python and PHP
+  * Several years of daily experience with nginx and Apache
+  * Reverse engineering malware and debugging segfaults
+  * Experience with OpenSSL both in the CLI and Ruby
+  * Creating bytecode iptables rules
+
 ## Experience
 
 **Shutterstock** - New York, New York - World Leading Stock Content Provider    
