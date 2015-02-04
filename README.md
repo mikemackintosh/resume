@@ -38,8 +38,8 @@
  * Provide professional and technical mentoring to teams and individuals
  * Oversee the design and deployment of closed-circuit security camera systems
  * Work with landlords to ensure data center standards compliance
- * _I am the security team_
- 
+
+
 **Verizon Wireless** - Branchburg, New Jersey - Telecommunications    
 05/2012 - 09/2013,  **Principle Engineer**, Security Engineering    
 05/2011 - 05/2012,  **Member of Technical Staff**, Security Engineering
