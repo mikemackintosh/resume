@@ -1,8 +1,8 @@
 # Mike Mackintosh
 ==================
 
-    m@zyp.io            |   Cell: 917.680.7495   |  Twitter: @mikemackintosh 
-    Belle Mead, NJ      |   Web: http://zyp.io   |   GitHub: mikemackintosh
+    m@zyp.io            |   Cell: 917.680.7495    |  Twitter: @mikemackintosh 
+    Belle Mead, NJ      | Web: mikemackintosh.com |   GitHub: mikemackintosh
 
 ## Experience
 
@@ -24,6 +24,8 @@
  * Complete quarterly PCI scans, annual self-assessment questionnaires, and serve as key member in SOX compliance
  * Run public responsible disclosure and internal bug bounty programs
  * Provide AppSec training to developers and QA test engineers
+ * Spearhead anti-virus and configuration management roll-outs for organization
+ * Improve security posture of sites and services by enhancing utilities like Puppet and Chef
  * Provide professional and technical mentoring to teams and individuals
  * Oversee the design and deployment of close-circuit security camera system 
  * Work with landlords to ensure data center compliance
@@ -46,7 +48,7 @@
  * Detect and respond to network incidents
  * Design, test and publish Methods of Procedures
 
-05/2008 - 05/2011,  **Technician-Switch**, Network Repaid
+05/2008 - 05/2011,  **Technician-Switch**, Network Repair
 
   * Support mission critical networks for large enterprise customers
   * Pioneer support for LTE 
@@ -56,3 +58,15 @@
   * Author department training materials and develop curriculum for formalized training classes
   * Created and maintained department website which included a knowledge base, wiki, data-mining and ticket automation
   * Participate and drive several large, multi-year projects with many teams and vendors
+
+
+## Noteworthy Side Projects
+
+**TitanOSX** - `https://github.com/TitanOSX/titan`  
+TitanOSX was inspired by the Etsy MIDAS project, but after an almost complete refactoring, I added client transparency. By this, there is a client utility which can be accessed to manage the tool, included monitors, and self-destructing reports. I also created a RESTful interface for online, remote reporting.
+
+**Masterbaker** - `https://github.com/mikemackintosh/masterbaker`  
+Masterbaker was ported from Soloist, one of the simplest ways to manage workstations using Chef. The large improvement of Masterbaker allows organizations to manage both company-wide and user-level run lists independently to give better control over configurations.
+
+**ruby-ipaddress** `https://github.com/bluemonk/ipaddress`
+I've submitted several pull-requests which have been pulled into master which add support for unsigned 32-bit IP address parsing and `IPv4#to_h` methods. After showing interest in this project, I became a co-maintainer of it to help it grow.
