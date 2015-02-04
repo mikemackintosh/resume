@@ -7,6 +7,7 @@
 ## Experience
 
 **Shutterstock** - New York, New York - World Leading Stock Content Provider
+
 09/2013 - present,  **Running the Security Team**
 
  * Responsible for the creation and growth of the security team as a whole by managing, facilitating and prioritizing all aspects of security including application, systems, networking, information and corporate as well as physical office security
@@ -32,6 +33,7 @@
  * _I am the security team_
  
 **Verizon Wireless** - Branchburg, New Jersey - Telecommunications
+
 05/2012 - 09/2013,  **Principle Engineer**, Security Engineering
 05/2011 - 05/2012,  **Member of Technical Staff**, Security Engineering
 
