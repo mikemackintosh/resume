@@ -35,6 +35,7 @@
 **Verizon Wireless** - Branchburg, New Jersey - Telecommunications
 
 05/2012 - 09/2013,  **Principle Engineer**, Security Engineering
+
 05/2011 - 05/2012,  **Member of Technical Staff**, Security Engineering
 
  * Manage Network Management Systems and define KPI's
