@@ -7,14 +7,14 @@
 ## Experience
 
 **Shutterstock** - New York, New York - World Leading Stock Content Provider    
-09/2013 - present,  **Running the Security Team**
+09/2013 - present,  **Security Engineering Lead**
 
- * Responsible for the creation and growth of the security team as a whole by managing, facilitating and prioritizing all aspects of security including application, systems, networking, information and corporate as well as physical office security
+ * Responsible for the creation and growth of the security team as a whole by managing, facilitating and prioritizing all aspects of security including application, systems, networking, information and corporate as well as physical office security for all company locations
  * Assess security posture of all Shutterstock brands including Shutterstock, Offset, WebDam, Skillfeed, BigStockPhoto, Rex and Premium Beat
  * Continually work with new security vendors to improve security profile of the company
  * Lead incident response from intrusion detection to patching for situations like Heartbleed, Shellshock, Ghost and SChannel vulnerabilities
  * Design and deploy DDoS-mitigation using both on and off-premise devices and upstream scrubbing networks
- * Constantly monitor and improve public reputation of all Shutterstock brands, including DNS and IP space
+ * Routine monitoring and improvements with regard to the public reputation of all Shutterstock brands, including DNS and IP space
  * Design and implement 2-factor authentication for corporate VPN systems
  * Create and enforce work-flows and policies for new vendor profiling and on-boarding
  * Establish and maintain Firewall Policies and approve policy modifications
@@ -27,8 +27,8 @@
  * Spearhead anti-virus and configuration management roll-outs for organization
  * Improve security posture of sites and services by enhancing utilities like Puppet and Chef
  * Provide professional and technical mentoring to teams and individuals
- * Oversee the design and deployment of close-circuit security camera system 
- * Work with landlords to ensure data center compliance
+ * Oversee the design and deployment of closed-circuit security camera systems
+ * Work with landlords to ensure data center standards compliance
  * _I am the security team_
  
 **Verizon Wireless** - Branchburg, New Jersey - Telecommunications    
