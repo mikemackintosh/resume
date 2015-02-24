@@ -1,8 +1,12 @@
 # Mike Mackintosh
 ==================
 
-    mike@titanosx.com  |   Cell: 973.464.9026    |  Twitter: @mikemackintosh 
+    m@kn0x.net         |   Cell: 973.464.9026    |  Twitter: @mikemackintosh 
     Belle Mead, NJ     | Web: mikemackintosh.com |   GitHub: mikemackintosh
+
+## Mission
+
+  * To conquer challenges in security, operations and automation by utilizing several years of development, networking and security experience while innovating and contributing to the open source community
 
 ## Skills
 
@@ -11,7 +15,7 @@
   * Several years of daily experience with nginx and Apache
   * Reverse engineering malware and debugging segfaults
   * Experience with OpenSSL both in the CLI and Ruby
-  * Creating bytecode iptables rules
+  * Creating bytecode iptables rules and automating Juniper Policy deployment
 
 ## Experience
 
