@@ -20,6 +20,7 @@
 ## Experience
 
 **Signal Sciences, Corp.** - Venice, California - Next-Generation Web Application Firewall
+
 05/2015 - present, **Security Engineering**
 
  * N/A
