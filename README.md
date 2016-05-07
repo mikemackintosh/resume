@@ -11,13 +11,19 @@
 ## Skills
 
   * Incident Response and System Hardening on Mac OS X, CentOS and Ubuntu/Debian
-  * Experience coding and developing in Ruby, Python and PHP
+  * Experience coding and developing in Golang, Ruby, Python and PHP
+  * Systems integration building API clients
+  * Making things play nicely together that shouldn't
   * Several years of daily experience with nginx and Apache
-  * Reverse engineering malware and debugging segfaults
-  * Experience with OpenSSL both in the CLI and Ruby
   * Creating bytecode iptables rules and automating Juniper Policy deployment
 
 ## Experience
+
+**Signal Sciences, Corp.** - Venice, California - Next-Generation Web Application Firewall SaaS
+05/2015 - present
+
+ * N/A
+ 
 
 **Shutterstock** - New York, New York - World Leading Stock Content Provider    
 09/2013 - present,  **Security Engineering Lead**
@@ -83,3 +89,18 @@ Masterbaker was ported from Soloist, one of the simplest ways to manage workstat
 
 **ruby-ipaddress** `https://github.com/bluemonk/ipaddress`    
 I've submitted several pull-requests which have been pulled into master which add support for unsigned 32-bit IP address parsing and `IPv4#to_h` methods. After showing interest in this project, I became a co-maintainer of it to help it grow.
+
+## Compentencies
+
+ - +15 years with PHP 5.x (OOP and Patterns), HTML, jQuery/JavaScript, MySQL, 
+ - +15 years at packet-level network reading and debugging
+ - +15 years of Linux System Administration (CentOS, Ubuntu and Fedora Core)
+ - +10 years of Juniper SRX, MX, EX (JunOS) and ISG-2000 series equipment
+ - +6 years of Chef and Puppet configuration management utilities
+ - +6 years of experience with Python and Ruby
+ - +5 years of Starent Networks (Cisco) ST-16 and ST-40 chassis and PDSN/xGW network elements
+ - +5 years of Juniper Network Security Manager (NSM)
+ - +5 years of experience with F5 Viprions and more notably AFM, Enterprise Manager and BigIQ
+ - +5 years of experience with Checkpoint Firefly and Nokia IPSO hardware and management platforms
+ - +3 years of compiled programming languages such as C/C++ 
+ - +2 years of Golang experience
