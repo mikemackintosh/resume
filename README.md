@@ -23,11 +23,12 @@
 
 05/2015 - present, **Security Engineering**
 
- * N/A
+ * Responsible for the oversight and implementation of all security related projects and planning.
+ * 
  
 
 **Shutterstock** - New York, New York - World Leading Stock Content Provider    
-09/2013 - present,  **Security Engineering Lead**
+09/2013 - 05/2016,  **Security Engineering Lead**
 
  * Responsible for the creation and growth of the security team as a whole by managing, facilitating and prioritizing all aspects of security including application, systems, networking, information and corporate as well as physical office security for all company locations
  * Assess security posture of all Shutterstock brands including Shutterstock, Offset, WebDam, Skillfeed, BigStockPhoto, Rex and Premium Beat
