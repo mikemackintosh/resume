@@ -1,32 +1,43 @@
 # Mike Mackintosh
 ==================
 
-    m@kn0x.net         |   Cell: 973.464.9026    |  Twitter: @mikemackintosh 
-    Belle Mead, NJ     | Web: mikemackintosh.com |   GitHub: mikemackintosh
+    mike.mackintosh@gmail.com   |   Cell: 323.379.3779    |  Twitter: @mikemackintosh 
+    Los Angeles, CA .           | Web: mikemackintosh.com |   GitHub: mikemackintosh
 
 ## Mission
 
-  * To conquer challenges in security, operations and automation by utilizing several years of development, networking and security experience while innovating and contributing to the open source community
-
-## Skills
-
-  * Incident Response and System Hardening on Mac OS X, CentOS and Ubuntu/Debian
-  * Experience coding and developing in Golang, Ruby, Python and PHP
-  * Systems integration building API clients
-  * Making things play nicely together that shouldn't
-  * Several years of daily experience with nginx and Apache
-  * Creating bytecode iptables rules and automating Juniper Policy deployment
+  * Seeking an opportunity to grow a team responsible for implementing engineering efficiencies, reducing operational burden and securing applications, infrastructure and networks through efficient designs while applying working knowledge of security standards to overcome challenge with an evolving set of technologies.
 
 ## Experience
+**Snap Inc.** - Santa Monica, California - Camera Company
+
+10/2017 - present, **Manager, Endpoint Engineering**
+  * Leading a team of engineers to forge the path towards the future of endpoint management and security
+  * Presented ['Red Phish, Blue Phish'](https://www.rsaconference.com/videos/red-phish-blue-phish-a-new-approach-to-phishing-simulations) at RSA Conference, May 2018
+  
+08/2016 - 10/2017, **Security Engineering, Corporate Security**
+  * Architected and operationalized the companies Vulnerability Management program
+  * Lead a partnership with IT to ensure patching capabilities were tested and weaponized to perform fleet-wide remediation of security threats
+  * Created tooling to automatically enrich alerts with data from within the Detection and Response pipeline
+  * Developed a solution to generate JIRA tickets from Splunk Alerts
+  * Performed phishing baselines and recurring campaigns to assess and understand the companies suceptability to phishing
+  * Responded to security events including internal threats and bug bounty reports
+  * Evaluated the security posture of new vendors, new implementation designs and templatizing re-usable, security-approved methods and practices
+  * Spearheaded an initiative to re-vamp the companies' strategy around single-sign off
 
 **Signal Sciences, Corp.** - Venice, California - Next-Generation Web Application Firewall
 
-05/2015 - present, **Security Engineering**
+05/2015 - 08/2016, **▓▓▓▓▓▓▓▓ of Security**
 
- * Responsible for the oversight and implementation of all security related projects and planning.
- * 
+  * I was responsible for overseeing ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ and ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ while ensuring that ▓▓▓▓▓▓▓ remains prioritized 
+  * Responsible for the company's first $1m in sales working with customers in a hybrid-sales engineer role providing demos, building custom integrations to retain prospects, debugging installations and adding features to the platform
+  * Served as an advisor to startups in the LA, Bay and NY-areas providing security best practices, tips, tricks and leadership who could not afford a full-time security resource
+  * Built and maintained a docker container auto-deploy solution using Docker Registry and Golang
+  * Developed automated security testing frameworks that allowed could measure the effectiveness of the platform in a repeatable, high-confidence fashion
+  * Orchestrated the corporate security program developing a homegrown endpoint configuration management utility using Chef, Golang and ELK. This solution increased confidence in the integrity of the product by securing the developer endpoints
+  * Migrated the infrastructure deployment models from kitchen-based instances to Infrastructure as Code using Terraform and automated system configuration and patching using systems like Chef, Packer and Blue/Green deployment models
  
-
+ 
 **Shutterstock** - New York, New York - World Leading Stock Content Provider    
 09/2013 - 05/2016,  **Security Engineering Lead**
 
@@ -98,11 +109,7 @@ I've submitted several pull-requests which have been pulled into master which ad
  - +15 years at packet-level network reading and debugging
  - +15 years of Linux System Administration (CentOS, Ubuntu and Fedora Core)
  - +10 years of Juniper SRX, MX, EX (JunOS) and ISG-2000 series equipment
- - +6 years of Chef and Puppet configuration management utilities
- - +6 years of experience with Python and Ruby
- - +5 years of Starent Networks (Cisco) ST-16 and ST-40 chassis and PDSN/xGW network elements
- - +5 years of Juniper Network Security Manager (NSM)
- - +5 years of experience with F5 Viprions and more notably AFM, Enterprise Manager and BigIQ
- - +5 years of experience with Checkpoint Firefly and Nokia IPSO hardware and management platforms
+ - +8 years of experience with Python and Ruby
+ - +7 years of Chef and Puppet configuration management utilities
+ - +5 years of Golang experience
  - +3 years of compiled programming languages such as C/C++ 
- - +2 years of Golang experience
