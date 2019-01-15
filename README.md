@@ -18,6 +18,7 @@
 08/2016 - 10/2017, **Security Engineering, Corporate Security**
   * Architected and operationalized the companies Vulnerability Management program
   * Lead a partnership with IT to ensure patching capabilities were tested and weaponized to perform fleet-wide remediation of security threats
+  * Developed automation workflows around Identity Management, including system inventorying and account validation for high-confidence in the on/off-boarding process
   * Created tooling to automatically enrich alerts with data from within the Detection and Response pipeline
   * Developed a solution to generate JIRA tickets from Splunk Alerts
   * Performed phishing baselines and recurring campaigns to assess and understand the companies suceptability to phishing
